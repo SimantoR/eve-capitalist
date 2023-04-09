@@ -1,0 +1,38 @@
+{
+  "name": "eve-capitalist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "classnames": "^2.3.2",
+    "d3": "^7.8.2",
+    "dayjs": "^1.11.7",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "linqify": "^1.2.2",
+    "mathjs": "^11.7.0",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "^2.5.0",
+    "sass": "^1.59.3",
+    "sqlite3": "^5.1.6",
+    "tailwind-merge": "^1.10.0",
+    "typeorm": "^0.3.12"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.0",
+    "@types/node": "18.15.3",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "typescript": "^5.0.2"
+  }
+}
